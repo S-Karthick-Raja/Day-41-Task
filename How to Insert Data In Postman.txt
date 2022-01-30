@@ -1,0 +1,21 @@
+//To Create Customers:
+
+{
+    "roomId": "102",
+    "customerName": "Divya",
+    "date": "24.01.2021",
+    "startTime": "03.00pm",
+    "endTime": "08.00am"
+}
+
+//To Create Room:
+
+{
+    "roomId": "102",
+    "noofseats": "2",
+    "amenities": [
+        "Swimming",
+        "Bike racks"
+    ],
+    "pricefor1hour": "300"
+}
